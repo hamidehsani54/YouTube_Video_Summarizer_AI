@@ -1,13 +1,3 @@
-Create a new file inside your project folder named:
-
-```bash
-README.md
-```
-
-Paste the following inside it:
-
----
-
 # YouTube Video Summarizer
 
 An AI powered web application that extracts transcripts from YouTube videos and generates clean summaries using a large language model.
